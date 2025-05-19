@@ -2,5 +2,6 @@
   "name": "@expample/app",
   "version": "0.1.0",
   "exports": "./app.ts",
-  "//": "'workspace': ['a', 'b'] <-- would like to add but looks like not to work"
+  "workspace": ["a", "b"],
+  "importMap": "import.map.json"
 }
