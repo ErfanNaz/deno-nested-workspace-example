@@ -1,0 +1,16 @@
+{
+  "imports": {
+    "@example/core": "./core/core.ts",
+    "@example/app": "./app/app.ts",
+    "@example/app/a": "./app/packages/a/a.ts",
+    "@example/app/b": "./app/packages/b/b.ts"
+  },
+  "scopes": {
+    "@example": {
+      "core": "./core/core.ts",
+      "app": "./app/app.ts",
+      "app/a": "./app/packages/a/a.ts",
+      "app/b": "./app/packages/b/b.ts"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "@app/a",
+  "version": "0.1.0",
+  "exports": "./a.ts"
+}

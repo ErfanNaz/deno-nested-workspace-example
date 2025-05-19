@@ -1,0 +1,7 @@
+{
+  "workspace": [
+    "core",
+    "app"
+  ],
+  "importMap": "./import.map.json"
+}
